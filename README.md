@@ -1,2 +1,0 @@
-# DoNgu
-little memory
